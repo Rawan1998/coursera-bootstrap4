@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Rawan1998/coursera-specialization#readme",
   "devDependencies": {
-    "lite-server": "^2.5.3"
+    "lite-server": "^2.5.4"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
